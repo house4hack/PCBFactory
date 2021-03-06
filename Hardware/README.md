@@ -8,6 +8,10 @@ The PCBFactory will burn away a layer (like paint or film) and leave a protectiv
 ## Current features:
 1. It can move in X,Y,Z
 
+## Next steps:
+1. Add enstops
+2. Add a box below for the electronics. 
+
 
 ## Future development:
 ### MVP1:
