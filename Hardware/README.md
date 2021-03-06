@@ -1,32 +1,32 @@
 # PCBFactory
 The PCB Factory started its life as a 3d Printer called 3drag (https://reprap.org/wiki/3drag). It was donated to House4Hack and after not getting any love for a while, it was repurposed as the base for our PCB Factory.
 
-##Theory of Operation:
+## Theory of Operation:
 The PCBFactory will burn away a layer (like paint or film) and leave a protective layer over the tracks so that when we etch the board, the protected areas are not etched away and only the unprotected areas are etched away. Further more it will be able to drill all the neccessary holes, and even mill the edges.
  
 
-##Current features:
+## Current features:
 1. It can move in X,Y,Z
 
 
-##Future development:
-###MVP1:
+## Future development:
+### MVP1:
 1. A laser to burn away uv curable film or paint, so that we can etch the board.
 2. A drill to drill holes for components.
 
-###MVP2:
+### MVP2:
 1. Be able to do a double sided board.
 
-###MVPz:
+### MVPz:
 1. Add a camera to calculate the rotation of the PCB.
 
-###MVPy: 
+### MVPy: 
 1. Have multiple drill heads with different sizes.
 
-###MVPx:
+### MVPx:
 1. Be able to do isolation routing of a PCB.
 
-###MVPw:
+### MVPw:
 1. Be able to do edge milling of a PCB.
 
 
