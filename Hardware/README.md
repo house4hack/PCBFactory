@@ -2,7 +2,7 @@
 The PCB Factory started its life as a 3d Printer called 3drag (https://reprap.org/wiki/3drag). It was donated to House4Hack and after not getting any love for a while, it was repurposed as the base for our PCB Factory.
 
 ## Theory of Operation:
-The PCBFactory will burn away a layer (like paint or film) and leave a protective layer over the tracks so that when we etch the board, the protected areas are not etched away and only the unprotected areas are etched away. Further more it will be able to drill all the neccessary holes, and even mill the edges.
+We start with a blank PCB, which we coat with a protective layer of paint or UV curable film. The PCBFactory will then burn away the protective layer around the tracks and leave a protective layer over the tracks so that when we etch the board, the protected areas are not etched away and only the unprotected areas are etched away. Furthermore it will be able to drill all the neccessary holes, and even mill the edges.
  
 
 ## Current features:
