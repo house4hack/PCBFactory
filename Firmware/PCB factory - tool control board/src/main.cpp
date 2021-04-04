@@ -4,6 +4,8 @@
 // using Pronteer.nz Grbl CNC shield v 3.00 clone
 
 
+
+
 // ================================================
 // INTERFACE TO GRBL CNC CONTROLLER
 // ================================================
@@ -29,7 +31,8 @@
 // PWM Input from Grbl
 #define PWM_IN A5     // SCL pin on shield -  connected to pwm output pin on GRBL controller
 
-// ===============================================
+
+
 
 // ================================================
 // INTERFACE TO TOOLS / GANTRY
